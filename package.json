@@ -1,0 +1,20 @@
+{
+  "name": "charles",
+  "version": "0.0.1",
+  "description": "Charles brews your coffee.",
+  "main": "app.js",
+  "dependencies": {
+    "botkit": "^0.2.1",
+    "dotenv": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subvisual/charles.git"
+  },
+  "author": "Subvisual",
+  "bugs": {
+    "url": "https://github.com/subvisual/charles/issues"
+  },
+  "homepage": "https://github.com/subvisual/charles#readme"
+}
