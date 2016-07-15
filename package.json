@@ -4,6 +4,7 @@
   "description": "Charles brews your coffee.",
   "main": "app.js",
   "dependencies": {
+    "bleacon": "^0.4.0",
     "botkit": "^0.2.1",
     "dotenv": "^2.0.0"
   },
