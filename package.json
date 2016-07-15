@@ -3,12 +3,20 @@
   "version": "0.0.1",
   "description": "Charles brews your coffee.",
   "main": "app.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
   "dependencies": {
     "bleacon": "^0.4.0",
     "botkit": "^0.2.1",
     "dotenv": "^2.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.0.1",
+    "eslint-config-airbnb-base": "^4.0.2",
+    "eslint-plugin-import": "^1.10.3"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/subvisual/charles.git"
